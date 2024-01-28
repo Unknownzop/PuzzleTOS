@@ -1,4 +1,4 @@
-# PuzzleMusicTOS
+# PuzzleTOS
 This is term of Service of PuzzleMusic Discord bot
 
 Last Update 28/1/24
